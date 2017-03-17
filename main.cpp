@@ -1,6 +1,6 @@
-#include <fstream>
-#include <iostream>
-#include <sstream>
+#include <fstream> // File IO library
+#include <iostream> // command IO library
+#include <sstream> // string library
 #include <vector>
 #include "Eigen/Dense"
 #include "measurement_package.h"
